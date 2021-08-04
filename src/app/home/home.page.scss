@@ -3,11 +3,19 @@
   width: 100%;
   left: 0;
   bottom: 0;
-  text-align:left;
+  text-align: left;
 }
 
-.logo{
-  padding-top: 18px;
+
+.logo {
+  align-self: flex-start;
+  text-align: center;
+}
+
+
+.title {
+  align-self: center;
+  text-align: center;
 }
 
 .centerImage {
